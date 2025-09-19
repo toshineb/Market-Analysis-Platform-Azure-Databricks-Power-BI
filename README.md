@@ -24,7 +24,7 @@ Below is a complete **README.md** you can drop into your repo. It’s written to
 **Four Power BI pages** (screenshots below) that tie the whole story together:
 
 1. **Overview** – executive snapshot of conversion, social engagement, and review health
-   ![Overview](sandbox:/mnt/data/Screenshot%202025-09-19%20135114.png)
+   ![Overview](Screenshot%202025-09-19%20135114.png)
 
 2. **Conversion Details** – funnel by action, conversion trend by month, and conversion rate by product (e.g., notably strong “Kayak”, “Ski Boots”)
    ![Conversion Details](sandbox:/mnt/data/Screenshot%202025-09-19%20135404.png)
