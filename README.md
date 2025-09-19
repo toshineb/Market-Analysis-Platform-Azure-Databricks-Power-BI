@@ -1,7 +1,3 @@
-Below is a complete **README.md** you can drop into your repo. It’s written to impress a hiring manager by showing clear business impact, solid cloud/data-engineering choices, and polished BI storytelling.
-
----
-
 # Market Analysis Platform
 
 **Azure | Databricks | Power BI | SQL | Python (NLTK)**
