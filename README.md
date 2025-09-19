@@ -218,7 +218,3 @@ Data Sources  →  Azure Data Lake / Azure SQL  →  Databricks (ETL + enrichmen
 * **Engagement** parsing and normalization.&#x20;
 * **NLTK VADER** enrichment and categorization.&#x20;
 * **Customer–Geography** enrichment for regional insights.&#x20;
-
----
-
-If you want, I can also save this as `README.md` in your workspace and include the images with relative paths so it’s plug-and-play for GitHub.
