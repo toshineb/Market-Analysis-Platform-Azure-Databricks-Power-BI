@@ -15,7 +15,7 @@
 
 ---
 
-## 2) What a reviewer will see in 90 seconds
+## 2) What you see in 90 seconds
 
 **Four Power BI pages** (screenshots below) that tie the whole story together:
 
