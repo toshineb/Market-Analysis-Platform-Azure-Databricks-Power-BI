@@ -24,16 +24,16 @@ Below is a complete **README.md** you can drop into your repo. It’s written to
 **Four Power BI pages** (screenshots below) that tie the whole story together:
 
 1. **Overview** – executive snapshot of conversion, social engagement, and review health
-   ![Overview](Screenshot%202025-09-19%20135114.png)
+   ![Overview](Screenshot%202025-09-19%20135546.png)
 
 2. **Conversion Details** – funnel by action, conversion trend by month, and conversion rate by product (e.g., notably strong “Kayak”, “Ski Boots”)
-   ![Conversion Details](sandbox:/mnt/data/Screenshot%202025-09-19%20135404.png)
+   ![Conversion Details](Screenshot%202025-09-19%20135225.png)
 
 3. **Social Media Details** – Views/Clicks/Likes trend lines, content-type comparison, and a heatmap table by product × month
-   ![Social Media Details](sandbox:/mnt/data/Screenshot%202025-09-19%20135225.png)
+   ![Social Media Details](Screenshot%202025-09-19%20135404.png)
 
 4. **Customer Review Details** – average rating, distribution by rating, **sentiment categories** vs. time, and a bubble chart of volume × rating × sentiment
-   ![Customer Review Details](sandbox:/mnt/data/Screenshot%202025-09-19%20135546.png)
+   ![Customer Review Details](Screenshot%202025-09-19%20135114.png)
 
 ---
 
